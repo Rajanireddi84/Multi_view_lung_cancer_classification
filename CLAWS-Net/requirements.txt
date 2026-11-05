@@ -1,0 +1,13 @@
+torch>=2.1
+numpy>=1.24
+scipy>=1.10
+scikit-image>=0.21
+scikit-learn>=1.3
+pandas>=2.0
+matplotlib>=3.7
+pyyaml>=6.0
+tqdm>=4.65
+pydicom>=2.4
+pylidc>=0.2.3
+pytest>=7.4
+openpyxl>=3.1
